@@ -7,5 +7,5 @@ Implementei algumas alterações básicas além das propostas em aula, e pretend
 
 ## Todo
 
-- [] Criar layout responsivo
-- [] Criar alert customizado em casos de erros 
+- [ ] Criar layout responsivo
+- [ ] Criar alert customizado em casos de erros 
