@@ -9,3 +9,5 @@ Implementei algumas alterações básicas além das propostas em aula, e pretend
 
 - [ ] Criar layout responsivo
 - [ ] Criar alert customizado em casos de erros 
+- [ ] Deixar este README bem bonito
+- [ ] hospedar na vercel ou netlify
